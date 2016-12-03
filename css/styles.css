@@ -1,0 +1,21 @@
+p {
+    cursor: pointer;
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #000;
+}
+p:hover{
+    text-decoration: underline;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1,
+h3,
+p{
+    text-align: center;
+}
